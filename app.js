@@ -60,7 +60,7 @@ const app = {
         {
             name: "100 Years love",
             singer: "Nam Đức",
-            path: "./music/song1 ( 1).mp3",
+            path: "./music/song1 (1).mp3",
             image: "./image/1.jpg"
         },
         {

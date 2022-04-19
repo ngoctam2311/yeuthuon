@@ -12,7 +12,7 @@
 body {
     font-family: Tahoma Geneva;
     font-style: var(--primary-color);
-    background-image: url('https://meta.vn/Data/image/2022/01/13/anh-dep-thien-nhien-3.jpg');
+    background-color: #F0FFFF;
 }
 
 html {
