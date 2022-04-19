@@ -40,7 +40,7 @@ html {
 
 .dashboard {
     padding: 16px 16px 14px;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVh0PZWnXhjWH9mP8XSsVkMSjZqBiio9zrNg&usqp=CAU');
+    background-color: #fff;
     position: fixed;
     top: 0;
     width: 100%;
@@ -62,7 +62,7 @@ header h4 {
 }
 
 header h2 {
-    color: #F0FFFF;
+    color: #000;
     font-size: 20px;
 }
 
